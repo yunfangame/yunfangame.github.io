@@ -1,7 +1,14 @@
-# TikTok账号频繁被封？7大避坑雷区+3步复活方案，跨境卖家合规运营指南
 
-**欢迎加入！TikTok交流电报群：**
-[@tiktok_tkbaohe](https://t.me/tiktok_tkbaohe)
+---
+title: TikTok账号频繁被封？7大避坑雷区+3步复活方案，跨境卖家合规运营指南
+slug: mobile-data
+date: 2024-11-22
+type: rumen
+authors: [shenweiyan]
+categories:
+- mobile
+  labels: ['mobile']
+---
 
 *图片来源：TikTok banned account screenshot*
 
