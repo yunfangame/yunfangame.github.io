@@ -13,12 +13,3 @@
 - item: 娱乐
   icon: fa-solid fa-trophy 
   link: ./cat/
-
-- item: 关于
-  icon: fa fa-cog
-  link: ""
-  list:
-  - name: 教程
-    url: https://github.com/PagesX
-  - name: 源码
-    url: https://github.com/PagesX
