@@ -6,9 +6,8 @@ categories:
   - Tiktok
 labels: ['Tiktok']
 ---
-**欢迎加入！TikTok交流电报群：**
 
-  <img src='https://img.tkbaohe.com/20255547/tr4s2kxv2qz.jpg' width=600 alt='ping-pong-china-korea-2024'>
+<img src='https://img.tkbaohe.com/20255547/tr4s2kxv2qz.jpg' width=600 alt='ping-pong-china-korea-2024'>
 
 
 ## 一、5大封号原因深度解析

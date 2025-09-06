@@ -1,4 +1,13 @@
-# 2025 TikTok最新变现方式大全：从广告佣金到自营电商的实操指南
+
+---
+title: 2025 TikTok最新变现方式大全：从广告佣金到自营电商的实操指南
+date: 2025-09-07
+authors: [万象宝盒]
+categories:
+- Tiktok
+  labels: ['Tiktok']
+---
+
 
 **欢迎加入！TikTok交流电报群：**
 

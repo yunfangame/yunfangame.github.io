@@ -1,7 +1,12 @@
-# 识别国内TikTok培训割韭菜指南：网友亲身经历揭秘4类骗局与避坑技巧
 
-**欢迎加入！TikTok交流电报群：**
-[@tiktok_tkbaohe](https://t.me/tiktok_tkbaohe)
+---
+title: T识别国内TikTok培训割韭菜指南：网友亲身经历揭秘4类骗局与避坑技巧
+date: 2025-09-07
+authors: [万象宝盒]
+categories:
+- Tiktok
+  labels: ['Tiktok']
+---
 
 TikTok如今热度高涨，人人都想分一杯羹，却也容易掉进培训机构的陷阱。如何分辨TikTok培训机构是否在"割韭菜"？听听这位网友的亲身经历。没错，TikTok趋势向好，但如今是知识付费时代，宣称"教你玩TikTok"的背后，可能藏着收割套路。
 

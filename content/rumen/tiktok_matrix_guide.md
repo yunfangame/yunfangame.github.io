@@ -1,4 +1,13 @@
-# TikTok矩阵运营全解析：概念、玩法及批量养号技巧，新手入门指南
+
+---
+title: TikTok矩阵运营全解析：概念、玩法及批量养号技巧，新手入门指南
+date: 2025-09-07
+authors: [万象宝盒]
+categories:
+- Tiktok
+  labels: ['Tiktok']
+---
+
 
 **欢迎加入！TikTok交流电报群：**
 
