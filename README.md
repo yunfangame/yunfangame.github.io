@@ -26,15 +26,3 @@ $ git pull https://github.com/PagesX/NavPage-Hugo-Theme.git
 本仓库动构建的静态文件自动发布至 GitHub **[NavPage-Hugo-Website](https://github.com/PagesX/NavPage-Hugo-Website)** 仓库的 [main](https://github.com/PagesX/NavPage-Hugo-Website/tree/main) 分支：
 
 - [main](https://github.com/PagesX/NavPage-Hugo-Website/tree/main) 分支部署至 [Netlify](https://app.netlify.com/)，同时绑定 [https://navpage.pagex.top](https://navpage.pagex.top)，**国内访问相对快一些！**
-
-
-
-<!-- Security scan triggered at 2025-09-02 14:23:30 -->
-
-<!-- Security scan triggered at 2025-09-02 15:25:36 -->
-
-<!-- Security scan triggered at 2025-09-02 15:25:52 -->
-
-<!-- Security scan triggered at 2025-09-02 15:26:30 -->
-
-<!-- Security scan triggered at 2025-09-02 15:26:58 -->
