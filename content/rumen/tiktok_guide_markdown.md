@@ -1,16 +1,18 @@
-
 ---
 title: TikTok账号频繁被封？7大避坑雷区+3步复活方案，跨境卖家合规运营指南
-slug: mobile-data
-date: 2024-11-22
-type: rumen
+slug: lorem-example
+date: 2025-11-22
+type: posts
 authors: [shenweiyan]
 categories:
-- mobile
-  labels: ['mobile']
+  - example
+labels: ['markdown']
 ---
 
-*图片来源：TikTok banned account screenshot*
+
+
+
+
 
 ## 一、5大封号原因深度解析
 
