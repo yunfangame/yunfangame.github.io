@@ -1,13 +1,4 @@
----
-title: 手机流量与套餐
-slug: mobile-data
-date: 2024-11-22
-type: posts
-authors: [shenweiyan]
-categories: 
-  - mobile 
-labels: ['mobile']
----
+
 
 都到 2024 年了，还在为手机流量和套餐的事情纠结。身处广东，不管移动联通电信，还是新出来的广电，就想问一下现在还有比较便宜的套餐吗？
 

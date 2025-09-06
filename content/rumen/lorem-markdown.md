@@ -1,13 +1,4 @@
----
-title: Lorem Ipsum Markdown file
-slug: lorem-example
-date: 2024-11-22
-type: posts
-authors: [shenweiyan]
-categories:
-  - example
-labels: ['markdown']
----
+
 
 
 Lorem ipsum dolor sit amet, *consectetur* adipisicing elit, sed do eiusmod
