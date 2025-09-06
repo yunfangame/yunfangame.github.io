@@ -2,7 +2,7 @@
 title: 手机流量与套餐
 slug: mobile-data
 date: 2024-11-22
-type: posts
+type: rumen
 authors: [shenweiyan]
 categories: 
   - mobile 
