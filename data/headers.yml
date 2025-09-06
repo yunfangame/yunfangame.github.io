@@ -14,7 +14,6 @@
       url: https://ccbaohe.cc/xuanpin/
     - name: 广告投放
       url: https://ccbaohe.cc/gunagao/
-
 - item: 文章
   icon: fa fa-book
   link: ./posts/

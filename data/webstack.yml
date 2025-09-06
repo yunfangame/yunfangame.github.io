@@ -43,7 +43,81 @@
       logo: v/v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-      
+- taxonomy: AI导航
+  icon: fa-solid fa-laptop-code
+  list:
+    - term: GPT大全
+      links:
+        - title: 免费ChatGPT-01
+          logo: c/chatgpt.webp
+          url: https://dslsth.aitianhu1.top/#/chat/1002
+          description: 免费使用的chatgpt
+        - title: 免费ChatGPT-02
+          logo: c/chatgpt.webp
+          url: https://chat2.free2gpt.com/
+          description: 免费使用的chatgpt
+        - title: 免费ChatGPT-03
+          logo: c/chatgpt.webp
+          url: https://chat03.a1r.cc/#/chat/1002
+          description: 免费使用的chatgpt
+        - title: 免费ChatGPT-04
+          logo: c/chatgpt.webp
+          url: https://chatgptplus.cn/?ref=ccbaohe.cc
+          description: 免费使用的chatgpt
+        - title: 免费ChatGPT-05
+          logo: c/chatgpt.webp
+          url: https://www.opkfc.com/list
+          description: 免费使用的chatgpt
+        - title: 免费ChatGPT-06
+          logo: c/chatgpt.webp
+          url: https://ai1.yjie.fun/?ref=ccbaohe.cc
+          description: 免费使用的chatgpt
+    - term: AI写作
+      links:
+        - title: Webify
+          logo: c/cloud-tencent.webp
+          url: https://webify.cloudbase.net/
+          description: 专为 Web 开发者打造的应用托管平台。
+        - title: Netlify
+          logo: n/netlify.webp
+          url: https://app.netlify.com/
+          description: Netlify 组合式 Web 平台。
+        - title: Cloudflare Pages
+          logo: c/cloudflare-pages.webp
+          url: https://pages.cloudflare.com/
+          description: 前端开发人员协作和部署网站。
+        - title: Vercel
+          logo: v/vercel.webp
+          url: https://vercel.com/
+          description: 通过前端云构建和部署最佳的 Web 体验。
+        - title: EdgeOne Pages
+          logo: e/edgeone.png
+          url: https://edgeone.ai/products/pages
+          description: Fast build and deploy your web app.
+    - term: 开发工具
+      links:
+        - title: 开发者武器库
+          logo: d/devtool-tech.svg
+          url: https://devtool.tech/
+          description: 属于程序员的工具箱。
+    - term: 镜像源站
+      links:
+        - title: 阿里云镜像
+          logo: a/aliyun.jpg
+          url: https://developer.aliyun.com/mirror/
+          description: 阿里巴巴开源镜像站。
+        - title: 清华大学镜像
+          logo: m/mirrors-tuna.png
+          url: https://mirrors.tuna.tsinghua.edu.cn/
+          description: 清华大学开源软件镜像站。
+        - title: 西湖大学镜像
+          logo: w/westlake.png
+          url: https://mirrors.westlake.edu.cn/
+          description: Mirrors Site of Westlake University.
+        - title: HF-Mirror
+          logo: h/huggingface.png
+          url: https://hf-mirror.com/
+          description: 镜像 Huggingface.co 域名。
 - taxonomy: 程序代码
   icon: fa-solid fa-laptop-code
   list:
