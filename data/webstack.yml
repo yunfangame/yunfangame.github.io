@@ -44,7 +44,7 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
 - taxonomy: AI导航
-  icon: fa-solid fa-microchip-ai
+  icon: fa-solid fa-laptop-code
   list:
     - term: GPT大全
       links:
@@ -191,7 +191,7 @@
           url: https://hf-mirror.com/
           description: 镜像 Huggingface.co 域名。
 - taxonomy: 程序代码
-  icon: fa-solid fa-laptop-code
+  icon: fas fa-band-aid
   list:
     - term: 代码托管
       links:
