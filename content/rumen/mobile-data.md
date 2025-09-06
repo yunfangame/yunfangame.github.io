@@ -3,7 +3,7 @@ title: TikTok账号频繁被封？7大避坑雷区+3步复活方案，跨境卖�
 slug: mobile-data
 date: 2024-11-22
 type: rumen
-authors: [shenweiyan]
+authors: [万象宝盒]
 categories: 
   - tiktok 
 labels: ['tiktok']

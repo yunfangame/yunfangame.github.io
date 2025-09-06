@@ -3,7 +3,7 @@ title:  2025 TikTok最新变现方式大全：从广告佣金到自营电商的�
 slug: tiktok_monetization_guide
 date: 2024-11-22
 type: rumen
-authors: [shenweiyan]
+authors: [万象宝盒]
 categories: 
   - tiktok
 labels: ['tiktok']
