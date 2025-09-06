@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+
+{{ partial "content_header.html" . }}
+
+<body class="page-body boxed-container">
+    <main role="main" class="flex-shrink-0">
+    <div class="container">
+        <h1 class="mt-5">{{ .Title }}</h1>
+        <div class="content">
+            {{ .Content | safeHTML }}
+        </div>
+    </div>
+    </main>
+
+    <link rel="stylesheet" id="custom-single" href="{{ absURL "css/custom-single.css" }}" type="text/css" media="all" />
+    <!--style>
+        .content{font-size:14px;}
+	.content a{color:#007bff;}
+	.content a:hover{color:#f1404b;}
+	.content h1,.content h2,.content h3,.content h4{margin: 15px 15px 15px 0px;}
+	.content p{line-height:1.5;margin:15px 0;}
+	.big-header-banner .page-header{background:gray;}
+	/*顶部导航栏字体+图标颜色*/
+        .big-header-banner .page-header{color:unset;background:#ffffff;box-shadow:none;transition:color .3s,background-color .3s}
+        .big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a,.big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item){color:black}
+        .big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a:hover,.big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item):hover{color:#dc3545;}
+        .big-header-banner:not(.header-bg) .header-mini-btn path{stroke:black;}
+        .big-header-banner:not(.header-bg) .header-mini-btn label:hover path{stroke:#dc3545;;}
+        /*心知天气 widgetv3*/
+	.big-header-banner:not(.header-bg) .page-header span.sw-typography.sw-bar-slim-location{color:unset;}
+        .big-header-banner:not(.header-bg) .page-header span.sw-typography.sw-bar-slim-temperature{color:unset;}
+
+	/*.main-content{background:#f9f9f9;}*/
+	.main-content{margin-left:0px;}
+	.page-header{left:0px;}
+        img{max-width:100%;}
+    </style-->
+
+{{ partial "content_footer.html" . }}
+
+{{ partial "footer.html" . }}

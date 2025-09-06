@@ -1,0 +1,53 @@
+baseURL               = "https://navpage.pagex.top/"
+languageCode          = "zh-CN"
+title                 = "NavPage Hugo Theme"
+theme                 = "NavPage-Hugo-Theme"
+preserveTaxonomyNames = true
+disablePathToLower    = true
+hasCJKLanguage        = true
+publishDir            = "public"				# 站点静态文件保存目录
+
+
+[params]
+    author            = "shenweiyan"
+    description       = "NavPage-Hugo-Theme 导航主题"
+    upload            = ""	                     		# 左侧导航栏的"网站提交"
+    about             = "./about/"	                        # 左侧导航栏的"关于导航"页面(./about)
+    enablePreLoad     = true					# 网站完全打开前预加载动画
+    textPreLoad       = "NavPage 网址导航"          		# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar     = false					# 默认展开左侧边导航栏
+    nightMode         = false					# 默认站点为深色(夜间)模式
+    yiyan             = true                         		# 默认启用一言服务
+    fancybox          = true                                    # 使用 Fancybox 实现图片灯箱/放大功能
+
+[params.logo] 
+    logosType         = "API"                                   # 站点logo获取方式(API/PATH)
+    logosAPI          = "https://favicon.im/" 			# 通过 API 的方式获取图标, logosType=API 生效
+    largerSize        = true                                    # larger=true, logosType=API 生效
+    logosPath         = "logos"			                # 网站每个导航地址logo存放地址, logosType=PATH 时生效
+    defaultLogo       = "logos/default.webp"		     	# logo图片资源不存在或错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+
+[params.images]
+    favicon           = "imgs/n-favicon.png"
+    searchImageL      = "imgs/bg-dna.jpg"			# 搜索部分浅色背景图
+    searchImageD      = "imgs/bg-dna.jpg"			# 搜索部分深色背景图
+    logoExpandLight   = "imgs/px-expand-dark.png"
+    logoExpandDark    = "imgs/px-expand-light.png"
+    logoCollapseLight = "imgs/px.png"
+    logoCollapseDark  = "imgs/px.png"
+
+[params.tpweather]
+    key = "10c4daf3-6a05-4d21-b26f-2c0b9349ee8b"                # 心知天气(https://www.seniverse.com/widgetv3)
+
+[params.seo]
+    baiduhmid       = ''                                        # 百度统计 hm.src 的 ID
+    baiduSiteVer    = ''                                        # 百度HTML标签验证(baidu-site-verification)
+    tj51laid        = ''                                        # 51.LA 网站统计
+    tj51lack        = ''
+    GoogleAdsClient = ''                                        # Google AdSense
+    
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params.footer]
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：shen@weiyan.cc <br/>&copy; 2021 - {year} By [NavPage-Hugo-Theme](https://github.com/pagesx) | [Bio IT 爱好者](https://github.com/BioITee) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'

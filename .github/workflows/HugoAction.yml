@@ -1,0 +1,51 @@
+name: Hugo Actions  # 名字自取
+
+on:
+  push:
+    branches:
+      - main  # 这里的意思是当 main 分支发生 push 的时候，运行下面的 jobs
+
+jobs:
+  deploy: 
+    runs-on: ubuntu-latest	        # 在什么环境运行任务
+    steps:
+      - uses: actions/checkout@v4       # 引用actions/checkout这个action，与所在的github仓库同名
+        with:
+         submodules: recursive          # Fetch Hugo themes (true OR recursive) 获取submodule主题
+         fetch-depth: 0                 # Fetch all history for .GitInfo and .Lastmod
+         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+         
+      #- name: Pull & update submodules recursively
+        #run: |
+          #git submodule update --init --recursive
+          #git submodule update --recursive --remote
+
+      - name: Setup Hugo	        # 步骤名自取
+        uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
+        with:
+          hugo-version: '0.137.0'	# 获取指定版本的hugo
+
+      - name: Hugo 构建
+        run: hugo         	# 使用 hugo 构建静态网页
+
+      - name: 部署至仓库                      # 部署至当前仓库的其他分支
+        uses: peaceiris/actions-gh-pages@v3             # 一个自动发布github pages的action
+        with:
+          external_repository: yunfangame/yunfangame.github.io 	# 发布到哪个repo(注释本行，即默认部署到当前仓库)
+          #1. 创建 Personal_Access_Token：
+          #   GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens ->  Tokens (classic) -> New personal access token (classic)
+          #   - Note: 随便填写
+          #   - Expiration: No expiration
+          #   - Select scopes: 选择 repo+workflow 
+          #2. 粘贴 Personal_Access_Token：
+          #   进入当前仓库 -> Settings -> Secrets and variables -> Actions，选择 New repository secret -> 粘贴前面生成的 personal_access_token
+          #   - Name: PERSONAL_ACCESS_TOKEN
+          #   - Secret: 粘贴第 1 生成的 personal_access_token
+          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	  
+          #注意这里指的是 Pages 要发布哪个文件夹的内容，而不是指发布到目的仓库的什么位置；因为 hugo 默认生成静态网页到 public 文件夹，所以这里发布 public 文件夹里的内容。
+          publish_dir: ./public
+          keep_files: true
+          publish_branch: gh-pages        #发布到哪个branch分支
+          force_orphan: true
+          cname: ccbaohe.cc   #绑定 github pages 的域名
+          full_commit_message: ${{ github.event.head_commit.message }}

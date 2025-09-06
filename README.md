@@ -1,22 +1,40 @@
-> **📢 让更多人的人制作自己的导航网站。**
+# NavPage-Insiders 导航站点
 
-这是基于 [NavPage-Hugo-Theme](https://github.com/PagesX/NavPage-Hugo-Theme) 静态响应式网址导航主题，打造的的**示例版本**。
+本项目是基于 [NavPage-Hugo-Theme](https://github.com/PagesX/NavPage-Hugo-Theme) 静态响应式网址导航主题，打造的的**示例版本站点**。
 
-本仓库来源于 [NavPage-Hugo-Demo](https://github.com/PagesX/NavPage-Hugo-Demo) 私有仓库，是 [NavPage-Hugo-Demo](https://github.com/PagesX/NavPage-Hugo-Demo) 通过 [GitHub Actions](https://github.com/peaceiris/actions-gh-pages) 自动生成的 Pages 静态站定文件，可直接部署到以下平台：
+### 安装部署
 
-- [GitHub Pages](https://pages.github.com/) | [Cloudflare Pages](https://pages.cloudflare.com/) | [Netlify](https://app.netlify.com/) | [Vercel](https://vercel.com/) 
+下载更新，更新子模块。
 
-### 站点预览
+```
+$ git clone https://github.com/PagesX/NavPage-Hugo-Demo.git
+$ cd NavPage-Hugo-Demo
+$ git submodule update --init --recursive
+$ cd themes/NavPage-Hugo-Theme
+$ git pull https://github.com/PagesX/NavPage-Hugo-Theme.git
+```
 
-- <https://navpage.pagex.top>
+### 静态资源
 
-### 获取主题
+本站点的所有静态资源，包括导航站点 logo 图片等均已开源，详情请参考 [PagesX/NavPage-Assets](https://github.com/PagesX/NavPage-Assets)。
 
-- 源码：[NavPage-Hugo-Demo](https://github.com/PagesX/NavPage-Hugo-Demo)
-- 主题：[NavPage-Hugo-Theme](https://github.com/PagesX/NavPage-Hugo-Theme)
+### 发布与修改站点
 
-主题与站点源码均为私有 (**Private**) 仓库，你如果需要创建一个类似的导航站点，可以通过付费的方式([**付费说明**](https://github.com/orgs/PagesX/discussions/2))，获取该两个仓库的 Insiders 下载链接，或者成为本组织长期有效的会员。
+增删导航站点信息，你可以直接在 GitHub 页面直接在 `data/webstack.yml` 中进行修改，修改完成后通过 GitHub Actions - [HugoAction.yml](https://github.com/PagesX/NavPage-Hugo-Demo/blob/main/.github/workflows/HugoAction.yml) 触发自动构建，生成可以直接部署的静态站点文件 (默认保存在 **`public`** 目录)，并发布到指定的仓库。
 
-### 讨论与建议
 
-任何问题与建议，欢迎移步 [Discussions](https://github.com/orgs/PagesX/discussions)，参与讨论。
+本仓库动构建的静态文件自动发布至 GitHub **[NavPage-Hugo-Website](https://github.com/PagesX/NavPage-Hugo-Website)** 仓库的 [main](https://github.com/PagesX/NavPage-Hugo-Website/tree/main) 分支：
+
+- [main](https://github.com/PagesX/NavPage-Hugo-Website/tree/main) 分支部署至 [Netlify](https://app.netlify.com/)，同时绑定 [https://navpage.pagex.top](https://navpage.pagex.top)，**国内访问相对快一些！**
+
+
+
+<!-- Security scan triggered at 2025-09-02 14:23:30 -->
+
+<!-- Security scan triggered at 2025-09-02 15:25:36 -->
+
+<!-- Security scan triggered at 2025-09-02 15:25:52 -->
+
+<!-- Security scan triggered at 2025-09-02 15:26:30 -->
+
+<!-- Security scan triggered at 2025-09-02 15:26:58 -->

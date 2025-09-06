@@ -1,0 +1,89 @@
+<div class="header-big  post-top css-color mb-4" id="search-bg">
+    <div class="s-search">
+        <div id="search" class="s-search mx-auto">
+            <div id="search-list-menu" class="hide-type-list">
+                <div class="s-type text-center">
+                    <div class="s-type-list big">
+                        <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
+			{{ range $index, $element := .Site.Data.search }}
+			{{ if .links }}
+			{{ if (eq $index 0) }}
+			    <label for="{{ .select }}" data-id="{{ .dataid }}" class="active"><span>{{ .taxonomy }}</span></label>
+			{{ else }}
+			    <label for="{{ .select }}" data-id="{{ .dataid }}"><span>{{ .taxonomy }}</span></label>
+			{{ end }}
+			{{ end }}
+			{{ end }}
+                    </div>
+                </div>
+            </div>
+
+            <form action="https://www.baidu.com?s=" method="get" target="_blank" class="super-search-fm">
+                <input type="text" id="search-text" class="form-control smart-tips search-key" 
+                    zhannei="" placeholder="输入关键字搜索" style="outline:0" autocomplete="off">
+                <button class="submit" type="submit"><i class="iconfont icon-search"></i></button>
+            </form>
+
+            <div id="search-list" class="hide-type-list">
+		{{ range $index, $element := .Site.Data.search }}
+		{{ if .links }}
+		{{ if (eq $index 0) }}
+		<div class="search-group default {{ .dataid }}">
+                    <ul class="search-type">
+	            {{ range .links }}
+			{{ if eq $element.select .sid }}
+			<li>
+			    <input hidden="" type="radio" name="type" checked="checked" id="{{ .sid }}" value="{{ .value }}" data-placeholder="{{ .placeholder }}">
+			    <label for="{{ .sid }}"><span class="text-muted">{{ .name }}</span></label>
+			</li>
+			{{ else }}
+			<li>
+			    <input hidden="" type="radio" name="type" id="{{ .sid }}" value="{{ .value }}" data-placeholder="{{ .placeholder }}">
+			    <label for="{{ .sid }}"><span class="text-muted">{{ .name }}</span></label>
+			</li>
+			{{ end }}
+		    {{ end }}
+		    </ul>
+	        </div>
+		{{ else }}
+		<div class="search-group {{ .dataid }}">
+                    <ul class="search-type">
+			{{ range .links }}
+			<li>
+			    <input hidden="" type="radio" name="type" id="{{ .sid }}" value="{{ .value }}" data-placeholder="{{ .placeholder }}">
+			    <label for="{{ .sid }}"><span class="text-muted">{{ .name }}</span></label>
+			</li>
+			{{ end }}
+                    </ul>
+                </div>
+		{{ end }}
+		{{ end }}
+		{{ end }}
+            </div>
+            <div class="card search-smart-tips search-hot-text">
+                <ul id="word" style="display: none"></ul>
+            </div>
+        </div>
+    </div>
+    <!--div class="bulletin-big mx-3 mx-md-0">
+        <div id="bulletin_box" class="card my-2">
+            <div class="card-body py-1 px-2 px-md-3 d-flex flex-fill text-xs text-muted">
+                <div><i class="iconfont icon-bulletin" style="line-height:25px"></i></div>
+                <div class="bulletin mx-1 mx-md-2 carousel-vertical">
+                    <div class="carousel slide" data-ride="carousel" data-interval="3000">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="carousel-item active"><a class="overflowClip_1"
+                                    href="#">NavPage 导航 - 用心精选每一个链接</a></div>
+                            <div class="carousel-item "><a class="overflowClip_1"
+                                    href="#">NavPage-Insiders - 有范的导航网站</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex-fill"></div>
+                <a title="关闭" href="javascript:;" rel="external nofollow" class="bulletin-close"
+                    onclick="$('#bulletin_box').slideUp('slow');"><i class="iconfont icon-close"
+                        style="line-height:25px"></i></a>
+            </div>
+        </div>
+    </div-->
+</div>
