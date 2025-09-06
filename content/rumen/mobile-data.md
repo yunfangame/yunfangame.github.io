@@ -5,8 +5,8 @@ date: 2024-11-22
 type: rumen
 authors: [shenweiyan]
 categories: 
-  - mobile 
-labels: ['mobile']
+  - tiktok 
+labels: ['tiktok']
 ---
 ## 一、5大封号原因深度解析
 
