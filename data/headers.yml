@@ -4,7 +4,16 @@
 
 - item: TikTok专区
   icon: fab fa-hive
-  link: ./about/
+  link: ""
+  list:
+    - name: 新手入门
+      url: https://ccbaohe.cc/rumen/
+    - name: 运营实操
+      url: https://ccbaohe.cc/yunying/
+    - name: 选品技巧
+      url: https://ccbaohe.cc/xuanpin/
+    - name: 广告投放
+      url: https://ccbaohe.cc/gunagao/
 
 - item: 文章
   icon: fa fa-book
@@ -13,3 +22,4 @@
 - item: 娱乐
   icon: fa-solid fa-trophy 
   link: ./cat/
+
