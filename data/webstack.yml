@@ -94,13 +94,85 @@
           logo: e/edgeone.png
           url: https://edgeone.ai/products/pages
           description: Fast build and deploy your web app.
-    - term: 开发工具
+    - term: AI 绘画
       links:
         - title: 开发者武器库
           logo: d/devtool-tech.svg
           url: https://devtool.tech/
           description: 属于程序员的工具箱。
-    - term: 镜像源站
+    - term: 图片处理
+      links:
+        - title: 阿里云镜像
+          logo: a/aliyun.jpg
+          url: https://developer.aliyun.com/mirror/
+          description: 阿里巴巴开源镜像站。
+        - title: 清华大学镜像
+          logo: m/mirrors-tuna.png
+          url: https://mirrors.tuna.tsinghua.edu.cn/
+          description: 清华大学开源软件镜像站。
+        - title: 西湖大学镜像
+          logo: w/westlake.png
+          url: https://mirrors.westlake.edu.cn/
+          description: Mirrors Site of Westlake University.
+        - title: HF-Mirror
+          logo: h/huggingface.png
+          url: https://hf-mirror.com/
+          description: 镜像 Huggingface.co 域名。
+    - term: AI视频
+      links:
+        - title: 阿里云镜像
+          logo: a/aliyun.jpg
+          url: https://developer.aliyun.com/mirror/
+          description: 阿里巴巴开源镜像站。
+        - title: 清华大学镜像
+          logo: m/mirrors-tuna.png
+          url: https://mirrors.tuna.tsinghua.edu.cn/
+          description: 清华大学开源软件镜像站。
+        - title: 西湖大学镜像
+          logo: w/westlake.png
+          url: https://mirrors.westlake.edu.cn/
+          description: Mirrors Site of Westlake University.
+        - title: HF-Mirror
+          logo: h/huggingface.png
+          url: https://hf-mirror.com/
+          description: 镜像 Huggingface.co 域名。
+    - term: AI音频
+      links:
+        - title: 阿里云镜像
+          logo: a/aliyun.jpg
+          url: https://developer.aliyun.com/mirror/
+          description: 阿里巴巴开源镜像站。
+        - title: 清华大学镜像
+          logo: m/mirrors-tuna.png
+          url: https://mirrors.tuna.tsinghua.edu.cn/
+          description: 清华大学开源软件镜像站。
+        - title: 西湖大学镜像
+          logo: w/westlake.png
+          url: https://mirrors.westlake.edu.cn/
+          description: Mirrors Site of Westlake University.
+        - title: HF-Mirror
+          logo: h/huggingface.png
+          url: https://hf-mirror.com/
+          description: 镜像 Huggingface.co 域名。
+    - term: AI提示词
+      links:
+        - title: 阿里云镜像
+          logo: a/aliyun.jpg
+          url: https://developer.aliyun.com/mirror/
+          description: 阿里巴巴开源镜像站。
+        - title: 清华大学镜像
+          logo: m/mirrors-tuna.png
+          url: https://mirrors.tuna.tsinghua.edu.cn/
+          description: 清华大学开源软件镜像站。
+        - title: 西湖大学镜像
+          logo: w/westlake.png
+          url: https://mirrors.westlake.edu.cn/
+          description: Mirrors Site of Westlake University.
+        - title: HF-Mirror
+          logo: h/huggingface.png
+          url: https://hf-mirror.com/
+          description: 镜像 Huggingface.co 域名。
+    - term: AI编程
       links:
         - title: 阿里云镜像
           logo: a/aliyun.jpg
