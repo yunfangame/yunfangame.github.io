@@ -205,76 +205,90 @@
           description: 一个免费的在线黑白老照片修复上色工具一：黑白照片着色、老照片增强、老照片修饰和老照片修复、去除老照片划痕
     - term: AI视频
       links:
-        - title: 阿里云镜像
-          logo: a/aliyun.jpg
-          url: https://developer.aliyun.com/mirror/
-          description: 阿里巴巴开源镜像站。
-        - title: 清华大学镜像
-          logo: m/mirrors-tuna.png
-          url: https://mirrors.tuna.tsinghua.edu.cn/
-          description: 清华大学开源软件镜像站。
-        - title: 西湖大学镜像
-          logo: w/westlake.png
-          url: https://mirrors.westlake.edu.cn/
-          description: Mirrors Site of Westlake University.
-        - title: HF-Mirror
-          logo: h/huggingface.png
-          url: https://hf-mirror.com/
-          description: 镜像 Huggingface.co 域名。
+        - title: Genmo
+          logo: genmo.png
+          url: https://www.genmo.ai/?ref=ccbaohe.cc
+          description: 更具创造性！使用文本指令编辑图像和视频
+        - title: uberduck
+          logo: uberduck.png
+          url: https://www.uberduck.ai/?ref=ccbaohe.cc
+          description: 开源的AI语音生成平台
+        - title: Audo Studio
+          logo: AudoStudio.png
+          url: https://www.audo.ai/?ref=ccbaohe.cc
+          description: AI一键清除音频背景杂音
+        - title: Unscreen
+          logo: Unscreen.png
+          url: https://www.unscreen.com/?ref=ccbaohe.cc
+          description: 智能AI去除视频背景在线神器。
+        - title: 腾讯智影
+          logo: tengxunzhiying.png
+          url: https://zenvideo.qq.com/?ref=ccbaohe.cc
+          description: 智能AI去除视频背景在线神器。
+        - title: Clipchamp
+          logo: Clipchamp.png
+          url: https://clipchamp.com/zh-hans/?ref=ccbaohe.cc
+          description: 将文本转为视频旁白！几分钟即可创建导出视频。
+        - title: 剪映专业版
+          logo: 剪映专业版.png
+          url: https://www.capcut.cn/?ref=ccbaohe.cc
+          description: 强大的国产抖音剪辑工具！支持AI智能生成字幕和配音
+        - title: Soundraw
+          logo: Soundraw.png
+          url: https://soundraw.io/?ref=ccbaohe.cc
+          description: 用AI制作免费的音乐
+        - title: 鬼手剪辑
+          logo: 鬼手剪辑.png
+          url: https://cn.jollytoday.com/login/
+          description: AI自动去除视频字幕，硬字幕翻译，识别视频声音自动翻译，多语音配音
+        - title: 快剪辑
+          logo: 快剪辑.png
+          url: https://www.kuaijianji.com/?ref=ccbaohe.cc
+          description: 快剪辑是360旗下推出的支持在线视频剪辑的软件，提供了多种AI工具
     - term: AI音频
       links:
-        - title: 阿里云镜像
-          logo: a/aliyun.jpg
-          url: https://developer.aliyun.com/mirror/
-          description: 阿里巴巴开源镜像站。
-        - title: 清华大学镜像
-          logo: m/mirrors-tuna.png
-          url: https://mirrors.tuna.tsinghua.edu.cn/
-          description: 清华大学开源软件镜像站。
-        - title: 西湖大学镜像
-          logo: w/westlake.png
-          url: https://mirrors.westlake.edu.cn/
-          description: Mirrors Site of Westlake University.
-        - title: HF-Mirror
-          logo: h/huggingface.png
-          url: https://hf-mirror.com/
-          description: 镜像 Huggingface.co 域名。
-    - term: AI提示词
-      links:
-        - title: 阿里云镜像
-          logo: a/aliyun.jpg
-          url: https://developer.aliyun.com/mirror/
-          description: 阿里巴巴开源镜像站。
-        - title: 清华大学镜像
-          logo: m/mirrors-tuna.png
-          url: https://mirrors.tuna.tsinghua.edu.cn/
-          description: 清华大学开源软件镜像站。
-        - title: 西湖大学镜像
-          logo: w/westlake.png
-          url: https://mirrors.westlake.edu.cn/
-          description: Mirrors Site of Westlake University.
-        - title: HF-Mirror
-          logo: h/huggingface.png
-          url: https://hf-mirror.com/
-          description: 镜像 Huggingface.co 域名。
+        - title: 呱呱有声
+          logo: 呱呱有声.png
+          url: https://www.gstudios.com.cn/?ref=ccbaohe.cc
+          description: 长音频内容生产AIGC开放平台
+        - title: 魔音工坊
+          logo: 魔音工坊.png
+          url: https://www.moyin.com/?ref=ccbaohe.cc
+          description: 文字转语音,录音转文字,视频转文字,视频转音频等功能,操作十分简单,功能丰富.
+        - title: 通义听悟
+          logo: 通义听悟.png
+          url: https://tingwu.aliyun.com/home?ref=tkbaohe.com
+          description: 通义听悟是阿里云通义家族新成员，是一款聚焦于音视频内容的工作学习AI助手。
+        - title: 团子AI
+          logo: 团子AI.png
+          url: https://tuanziai.com/?ref=ccbaohe.cc
+          description: AI提取伴奏人声
     - term: AI编程
       links:
-        - title: 阿里云镜像
-          logo: a/aliyun.jpg
-          url: https://developer.aliyun.com/mirror/
-          description: 阿里巴巴开源镜像站。
-        - title: 清华大学镜像
-          logo: m/mirrors-tuna.png
-          url: https://mirrors.tuna.tsinghua.edu.cn/
-          description: 清华大学开源软件镜像站。
-        - title: 西湖大学镜像
-          logo: w/westlake.png
-          url: https://mirrors.westlake.edu.cn/
-          description: Mirrors Site of Westlake University.
-        - title: HF-Mirror
-          logo: h/huggingface.png
-          url: https://hf-mirror.com/
-          description: 镜像 Huggingface.co 域名。
+        - title: AICodeConvert
+          logo: AICodeConvert.png
+          url: https://aicodeconvert.com/?ref=ccbaohe.cc
+          description: AICodeConver是一个工具，可以让用户轻松地生成或转换代码和自然语言为他们喜欢的编程语言。该工具利用人工智能技术提供代码生成和翻译功能，从而提高生产力。
+        - title: dify
+          logo: dify.png
+          url: https://dify.ai/?ref=ccbaohe.cc
+          description: 一个可视化的langchain,让开发Native Al app流程变得更简单。
+        - title: Github Copilot
+          logo: GithubCopilot.png
+          url: https://github.com/features/copilot/?ref=ccbaohe.cc
+          description: 基于ChatGPT4的开发工具
+        - title: AI Data Sidekick
+          logo: AISidekick.png
+          url: https://www.airops.com/?ref=ccbaohe.cc
+          description: AI编写 SQL，免费为个人和小团队
+        - title: 京东Deco
+          logo: 京东Deco.png
+          url: https://relay.jd.com/files?autologin=0
+          description: 京东推出的设计稿一键生成多端代码工具
+        - title: Regex
+          logo: regx.png
+          url: https://regex.ai/?ref=ccbaohe.cc
+          description: AI生成正则表达式
 - taxonomy: 程序代码
   icon: fas fa-band-aid
   list:
