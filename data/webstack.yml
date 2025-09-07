@@ -75,11 +75,11 @@
     - term: AI写作
       links:
         - title:  Kimi AI
-          logo: c/cloud-tencent.webp
+          logo: kimi.ico
           url: https://www.kimi.com/?ccbaohe.cc=
           description: Kimi智能助手，推出全球首个支持输入20万汉字的智能助手产品Kimi Chat
         - title: 豆包AI
-          logo: n/netlify.webp
+          logo: doubao.png
           url: https://app.netlify.com/
           description: 豆包是跳动字节旗下 AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
         - title: Notion AI
