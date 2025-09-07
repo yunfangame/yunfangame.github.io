@@ -376,6 +376,27 @@
           logo:  xuni4.png
           url: https://www.meiguodizhi.com
           description:  美国地址生成 - 美国身份生成 - 美国信用卡生成
+- taxonomy: 全球接码
+  icon: fa-solid fa-laptop-code
+  list:
+    - term: 全球接码
+      links:
+        - title: Sms-Activate
+          logo: sms1.png
+          url: https://sms-activate.io/
+          description: 支持支付宝，虚拟币充值，提供50多个国家的虚拟号码让您接收短信和来电
+        - title:  Onlinesim
+          logo: sms2.png
+          url: https://onlinesim.io/zh/?ref=ccbaohe.cc
+          description: 超过20个国家号码库存，可以在线接收激活码和短信确认。
+        - title: Google Voice
+          logo:  sms3.png
+          url: https://workspace.google.com/products/voice/
+          description: 谷歌虚拟手机号，可永久使用
+        - title:   Sms-man
+          logo:  sms4.png
+          url: https://sms-man.com/cn/?ref=ccbaohe.cc
+          description:  您可以轻松地以低廉的价格获得短信虚拟号码。
 - taxonomy: 程序代码
   icon: fas fa-band-aid
   list:
