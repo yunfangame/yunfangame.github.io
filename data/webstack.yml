@@ -83,43 +83,43 @@
           url: https://app.netlify.com/
           description: 豆包是跳动字节旗下 AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
         - title: Notion AI
-          logo: c/cloudflare-pages.webp
+          logo: notion.png
           url: https://www.notion.com/product/ai?ref=ccbaohe.cc
           description: AI写作神器！比你想得更多！写得更快
         - title: Writesonic
-          logo: v/vercel.webp
+          logo: ws.png
           url: https://writesonic.com/?ref=ccbaohe.cc
           description: 写作+搜索+绘画三位一体
         - title: Jasper AI
-          logo: e/edgeone.png
+          logo: jasper.png
           url: https://www.jasper.ai/?ref=ccbaohe.cc
           description: 适合企业的Ai营销写手
         - title: Copy AI
-          logo: e/edgeone.png
+          logo: copy.png
           url: https://www.copy.ai/?ref=ccbaohe.cc
           description: AI社交营销文案写作助手
         - title: EditGpt
-          logo: e/edgeone.png
+          logo: editgpt.png
           url: https://editgpt.app/?ref=ccbaohe.cc
           description: 让ChatGPT修改英语文章
         - title: 据意查句
-          logo: e/edgeone.png
+          logo: qinghua.png
           url: https://wantquotes.net/?ref=ccbaohe.cc
           description: 清华出品！AI 神器让你的文案立马变高级
         - title: 火山写作
-          logo: e/edgeone.png
+          logo: huoshan.png
           url: https://www.writingo.net/document?docId=1&ref=ccbaohe.cc
           description: 字节的AI英语写作工具，高效提升英文表达
         - title: 百度一念·智能创作
-          logo: e/edgeone.png
+          logo: baidu.png
           url: https://yinian.cloud.baidu.com/creativity/main/workbench?ref=ccbaohe.cc
           description: 百度智能云一念是基于百度文心大模型打造的内容创作平台。集文、图、视频等多种内容模态于一体
         - title: 【彩云ai】小梦续写
-          logo: e/edgeone.png
+          logo: caiyun.png
           url: https://www.xiaomengai.com/dashboard/novels?ref=ccbaohe.cc
           description: 彩云小梦-为文学创作者及文学爱好者提供Ai辅助创作编辑工具
         - title: 倩言写作
-          logo: e/edgeone.png
+          logo: qianyan.png
           url: https://www.qianyanlab.com/?ref=ccbaohe.cc
           description: 提供大中小学中英文作文素材、语法纠错润色、论文批改写作、托福及考研四六级作文真题提高。
 
