@@ -31,6 +31,10 @@
       logo: youtube.png
       url: https://www.youtube.com/
       description: YouTube是世界上最大的视频网站
+    - title:  Facebook
+      logo: fb.png
+      url: https://www.facebook.com/?ref=ccbaohe.cc
+      description: 全球最大的的社交平台
     - title:  Instagram
       logo: Instagram.png
       url: https://www.instagram.com/?ref=ccbaohe.cc
