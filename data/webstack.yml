@@ -4,43 +4,43 @@
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: y/yuque.webp
+      logo: yuque.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: 开源中国
-      logo: o/oschina.webp
+      logo: oschina.webp
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
     - title: 公众号平台
-      logo: m/mp-weixin.png
+      logo: mp-weixin.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
     - title: 搜狗微信
-      logo: s/sogou.webp
+      logo: sogou.webp
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达。
     - title: 微博
-      logo: w/weibo.webp
+      logo: weibo.webp
       url: https://weibo.com/
       description: 随时随地发现新鲜事。
     - title: 推特
-      logo: x/x-twitter.webp
+      logo: x-twitter.webp
       url: https://x.com/
       description: Twitter
     - title: 知乎
-      logo: z/zhihu.png
+      logo: zhihu.png
       url: https://www.zhihu.com/
       description: 知乎社区。
     - title: 文心一言
       url: https://yiyan.baidu.com/
-      logo: y/yiyan-baidu-com.webp
+      logo: yiyan-baidu-com.webp
       description: yiyan.baidu.com
     - title: ChatGPT
       url: https://chat.openai.com/
-      logo: c/chatgpt.webp
+      logo: chatgpt.webp
       description: chat.openai.com
     - title: V2EX
-      logo: v/v2ex.jpg
+      logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
 - taxonomy: AI导航
@@ -295,93 +295,93 @@
     - term: 代码托管
       links:
         - title: GitHub
-          logo: g/github.webp
+          logo: github.webp
           url: https://github.com/
           description: GitHub 开源社区。
         - title: Codeberg
-          logo: c/codeberg.webp
+          logo: codeberg.webp
           url: https://codeberg.org/
           description: "基于 Forgejo，(欧盟)德国开发者维护的托管平台。"
         - title: GitCode
-          logo: g/gitcode.png
+          logo: gitcode.png
           url: https://gitcode.com/
           description: 开发者的代码家园。
         - title: 码云
-          logo: g/gitee.webp
+          logo: gitee.webp
           url: https://gitee.com/
           description: 基于 Git 的代码托管和研发协作平台。
         - title: CODING
-          logo: c/coding.webp
+          logo: coding.webp
           url: https://coding.net/
           description: 一站式软件研发管理平台。
         - title: 阿里云效
-          logo: c/codeup.svg
+          logo: codeup.svg
           url: https://codeup.aliyun.com/
           description: 企业级代码管理平台。
         - title: 极狐
-          logo: g/gitlab.webp
+          logo: gitlab.webp
           url: https://jihulab.com/
           description: GitLab 极狐版 (JH)。
         - title: GitLab
-          logo: g/gitlab.webp
+          logo: gitlab.webp
           url: https://gitlab.com/
           description: The One DevOps Platform.
         - title: AtomGit
-          logo: a/atomgit.png
+          logo: atomgit.png
           url: https://atomgit.com/
           description: 开放原子开源基金会提供的代码托管平台。
         - title: Gitea
-          logo: g/gitea.svg
+          logo: gitea.svg
           url: https://gitea.com/
           description: Git with a cup of tea!
         - title: Framagit
-          logo: f/framagit.svg
+          logo: framagit.svg
           url: https://framagit.org
           description: 基于 GitLab 的法国公司，站点在德国。
     - term: 静态网站
       links: 
         - title: Webify
-          logo: c/cloud-tencent.webp
+          logo: cloud-tencent.webp
           url: https://webify.cloudbase.net/
           description: 专为 Web 开发者打造的应用托管平台。
         - title: Netlify
-          logo: n/netlify.webp
+          logo: netlify.webp
           url: https://app.netlify.com/
           description: Netlify 组合式 Web 平台。
         - title: Cloudflare Pages
-          logo: c/cloudflare-pages.webp
+          logo: cloudflare-pages.webp
           url: https://pages.cloudflare.com/
           description: 前端开发人员协作和部署网站。
         - title: Vercel
-          logo: v/vercel.webp
+          logo: vercel.webp
           url: https://vercel.com/
           description: 通过前端云构建和部署最佳的 Web 体验。
         - title: EdgeOne Pages
-          logo: e/edgeone.png
+          logo: edgeone.png
           url: https://edgeone.ai/products/pages
           description: Fast build and deploy your web app.
     - term: 开发工具
       links:
         - title: 开发者武器库
-          logo: d/devtool-tech.svg
+          logo: devtool-tech.svg
           url: https://devtool.tech/
           description: 属于程序员的工具箱。
     - term: 镜像源站
       links:
         - title: 阿里云镜像
-          logo: a/aliyun.jpg
+          logo: aliyun.jpg
           url: https://developer.aliyun.com/mirror/
           description: 阿里巴巴开源镜像站。
         - title: 清华大学镜像
-          logo: m/mirrors-tuna.png
+          logo: mirrors-tuna.png
           url: https://mirrors.tuna.tsinghua.edu.cn/
           description: 清华大学开源软件镜像站。
         - title: 西湖大学镜像
-          logo: w/westlake.png
+          logo: westlake.png
           url: https://mirrors.westlake.edu.cn/
           description: Mirrors Site of Westlake University.
         - title: HF-Mirror
-          logo: h/huggingface.png
+          logo: huggingface.png
           url: https://hf-mirror.com/
           description: 镜像 Huggingface.co 域名。
           
@@ -391,63 +391,63 @@
     - term: 邮箱服务
       links:
         - title: QQ 邮箱
-          logo: m/mail-qq.png
+          logo: mail-qq.png
           url: http://mail.qq.com/
           description: 腾讯 QQ 邮箱。 
         - title: 阿里云邮箱
-          logo: m/mail-ali.png
+          logo: mail-ali.png
           url: https://mail.aliyun.com/
           description: 阿里邮箱个人版。
         - title: 网易 163 邮箱
-          logo: n/netease.webp
+          logo: netease.webp
           url: https://mail.163.com/
           description: 网易 163 免费邮箱。
         - title: 88 完美邮箱
-          logo: 8/88.jpg
+          logo: 88.jpg
           url: https://88.com/
           description: '88.com - 完美邮箱'
         - title: Email 完美邮箱
-          logo: e/emailcn.png
+          logo: emailcn.png
           url: https://www.email.cn/
           description: 'Email.cn - 完美邮箱'
         - title: Gmail
-          logo: g/gmail.png
+          logo: gmail.png
           url: https://mail.google.com/
           description: 谷歌 Gmail 邮箱。
         - title: Outlook
-          logo: o/outlook.webp
+          logo: outlook.webp
           url: https://outlook.live.com/
           description: Free personal email and calendar from Microsoft.
     - term: 在线翻译
       links:
         - title: 有道词典
-          logo: y/youdao.png
+          logo: youdao.png
           url: https://www.youdao.com/
           description: 免费，即时的多语种在线翻译。
         - title: 有道翻译
-          logo: y/youdao.png
+          logo: youdao.png
           url: http://fanyi.youdao.com/
           description: 有道翻译。
         - title: 谷歌翻译
-          logo: t/translate-google.png
+          logo: translate-google.png
           url: https://translate.google.com.hk/
           description: 谷歌翻译。
         - title: 百度翻译
-          logo: f/fanyi-baidu.png
+          logo: fanyi-baidu.png
           url: https://fanyi.baidu.com/
           description: "200 种语言互译、沟通全世界！"
         - title: DeeL 翻译
-          logo: d/deepl.svg
+          logo: deepl.svg
           url: https://www.deepl.com/translator
           description: 全世界最准确的翻译。
     - term: 求职招聘
       links:
         - title: 简单简历
-          logo: e/easycv.png
+          logo: easycv.png
           url: https://easycv.cn/
           description: 五分钟打造互联网从业者的金牌简历。
         - title: 前程无忧
-          logo: 5/51job.jpg
+          logo: 51job.jpg
           url: https://www.51job.com/
           description: 51JOB - 前程无忧招聘网。
 
@@ -457,60 +457,60 @@
     - term: 在线科研
       links:
         - title: NCBI
-          logo: n/ncbi.webp
+          logo: ncbi.webp
           url: https://www.ncbi.nlm.nih.gov/
           description: National Center for Biotechnology Information.
         - title: NCBI BLAST
-          logo: b/blast.png
+          logo: blast.png
           url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
           description: NCBI 的 BLAST 序列比对工具。
         - title: Bioconda
-          logo: b/bioconda.jpg
+          logo: bioconda.jpg
           url: https://anaconda.org/bioconda/
           description: "Bioconda :: Anaconda.org."
         - title: CPAN
-          logo: m/metacpan.jpg
+          logo: metacpan.jpg
           url: https://metacpan.org/
           description: Search the CPAN.
         - title: Galaxy 即时聊天
-          logo: g/gitter.jpg
+          logo: gitter.jpg
           url: https://app.element.io/#/room/#galaxyproject:matrix.org
           description: Galaxy Chat on Matrix.
         - title: Galaxy Main
-          logo: g/galaxy-project.png
+          logo: galaxy-project.png
           url: https://usegalaxy.org/
           description: Use Galaxy Main server.
         - title: Galaxy Project
-          logo: g/galaxy-logo.jpg
+          logo: galaxy-logo.jpg
           url: https://galaxyproject.org/
           description: Galaxy Community Hub.
         - title: R-universe
-          logo: r/r-universe.webp
+          logo: r-universe.webp
           url: https://r-universe.dev/
           description: Browse and search R packages.
         - title: R Project
-          logo: r/r-project.webp
+          logo: r-project.webp
           url: https://www.r-project.org/
           description: https://www.r-project.org
         - title: Bioconductor
-          logo: b/bioconductor.png
+          logo: bioconductor.png
           url: http://www.bioconductor.org/
           description: http://www.bioconductor.org
         - title: RNAfold WebServer
-          logo: r/rna-tbi.webp
+          logo: rna-tbi.webp
           url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
           description: RNA 分子二级结构预测。
         - title: CNGBDB
-          logo: d/db-cngb.png
+          logo: db-cngb.png
           url: https://db.cngb.org/
           description: 国家基因库生命大数据平台。
         - title: '螺旋桨 - PaddleHelix'
           url: http://rna.baidu.com/
-          logo: r/rna-baidu.webp
+          logo: rna-baidu.webp
           description: 百度飞桨深度学习框架。
         - title: 临床生信之家
           url: https://www.aclbi.com/
-          logo: a/aclbi.jpg
+          logo: aclbi.jpg
           description: 生信之美，每一个科研者都值得拥有。
           
     - term: 云服务器
