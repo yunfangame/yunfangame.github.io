@@ -825,86 +825,86 @@
       links:
         - title: Biostars
           url: https://www.biostars.org/
-          logo: b/biostars.png
+          logo: biostars.png
           description: Bioinformatics Answers.
         - title: OmicShare Forum
           url: https://www.omicshare.com/forum/forum.php
-          logo: o/omicshare-forum.png
+          logo: omicshare-forum.png
           description: 广州基迪奥生物信息论坛。
         - title: 生信技能树
           url: http://www.biotrainee.com/
-          logo: b/biotrainee.jpg
+          logo: biotrainee.jpg
           description: 帮助每一位生信人构建最完善的生信技能树。
         - title: BioLinkX
           url: https://www.yuque.com/biolinkx
-          logo: b/biolinks.png
+          logo: biolinks.png
           description: BioLinkX 生物信息学协会。
         - title: BioAnno
           url: https://bioanno.com/
-          logo: b/bioanno.jpg
+          logo: bioanno.jpg
           description: TBtools 技能易物社区。
           
     - term: 技术社区
       links:
         - title: 开源中国
           url: https://www.oschina.net/
-          logo: o/oschina.webp
+          logo: oschina.webp
           description: 中文开源技术交流社区。
         - title: 'Stack Overflow'
           url: https://stackoverflow.com/
-          logo: s/stackoverflow.png
+          logo: stackoverflow.png
           description: 'Where Developers Learn, Share, & Build Careers.'
         - title: 博客园
-          logo: c/cnblogs.jpg
+          logo: cnblogs.jpg
           url: https://www.cnblogs.com/
           description: 开发者的网上家园。
         - title: 简书
           url: https://www.jianshu.com/
-          logo: j/jianshu.png
+          logo: jianshu.png
           description: 简书 - 创作你的创作。
         - title: 稀土掘金
           url: https://juejin.cn/
-          logo: j/juejin.png
+          logo: juejin.png
           description: 掘金 - 代码不止，掘进不停。
         - title: CSDN
           url: https://www.csdn.net/
-          logo: c/csdn.png
+          logo: csdn.png
           description: CSDN - 专业开发者社区。
         - title: InfoQ
           url: https://www.infoq.cn/
-          logo: i/infoq.png
+          logo: infoq.png
           description: 旨在促进软件开发领域知识与创新的传播。
         - title: SegmentFault
           url: https://segmentfault.com/
-          logo: s/segmentfault.png
+          logo: segmentfault.png
           description: 思否，开发者技术社区。
         - title: 花粉俱乐部
-          logo: h/huaweicloud.png
+          logo: huaweicloud.png
           url: https://club.huawei.com/
           description: 华为花粉俱乐部。
         - title: 荣耀俱乐部
-          logo: c/club-hihonor.jpg
+          logo: club-hihonor.jpg
           url: https://club.hihonor.com/cn/
           description: 荣耀手机官方论坛。
         - title: 卡饭论坛
           url: https://bbs.kafan.cn/portal.php
-          logo: p/portal-kafan.jpg
+          logo: portal-kafan.jpg
           description: 最好的软件论坛。
         - title: Inoreader
           url: https://www.inoreader.com/
-          logo: i/inoreader.png
+          logo: inoreader.png
           description: 重新掌控你的新闻订阅源。
         - title: Hacker News
           url: https://news.ycombinator.com/
-          logo: h/hacker-news.png
+          logo: hacker-news.png
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
         - title: 经管之家
           url: https://bbs.pinggu.org/
-          logo: p/pinggu-bbs.jpg
+          logo: pinggu-bbs.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
         - title: 统计之都
           url: https://cosx.org/
-          logo: c/cosx.png
+          logo: cosx.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
 
 - taxonomy: 工具集合
@@ -918,27 +918,27 @@
           description: 像发微博一样记笔记，记录你想法的川流。
         - title: 石墨文档
           url: https://shimo.im/
-          logo: s/shimo.webp
+          logo: shimo.webp
           description: 支持多人协作的在线文档编辑工具。
         - title: 腾讯文档
           url: https://docs.qq.com/
-          logo: d/docs-qq.png
+          logo: docs-qq.png
           description: 腾讯文档 - 官方网站。
         - title: ProcessOn
-          logo: p/processon.png
+          logo: processon.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
         - title: 幕布
           url: https://mubu.com/
-          logo: m/mubu.jpg
+          logo: mubu.jpg
           description: 极简大纲笔记，可以一键生成思维导图。
         - title: 百度脑图
           url: https://naotu.baidu.com/
-          logo: n/naotu-baidu.webp
+          logo: naotu-baidu.webp
           description: 百度便捷的在线思维导图制作工具。
         - title: GitMind
           url: https://gitmind.cn/
-          logo: g/getmind.png
+          logo: getmind.png
           description: 好用的全平台思维导图软件。
         - title: tinypng
           url: https://tinypng.com/
@@ -972,19 +972,19 @@
       links:
         - title: 腾讯问卷
           url: https://wj.qq.com/
-          logo: w/wj-qq.png
+          logo: wj-qq.png
           description: 免费好用的问卷调查系统。
         - title: 草料二维码
           url: https://cli.im/
-          logo: c/cli-im.png
+          logo: cli-im.png
           description: 将不同类型的内容生成二维码。
         - title: 'SM.MS'
           url: https://sm.ms/
-          logo: s/smms.png
+          logo: smms.png
           description: 免费图床工具。
         - title: ImgURL
           url: https://www.imgurl.org/
-          logo: i/imgurl.png
+          logo: imgurl.png
           description: 免费图片外链工具。
     - term: 视频语音
       links:
