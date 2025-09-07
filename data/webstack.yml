@@ -334,6 +334,48 @@
           logo:  mayi.png
           url: https://antbrowser.pro/ru/?ref=ccbaohe.cc
           description: 蚂蚁浏览器，战斗民族俄罗斯出品。
+- taxonomy: 虚拟邮箱
+  icon: fa-solid fa-laptop-code
+  list:
+    - term: 虚拟邮箱
+      links:
+        - title:  24小时邮箱
+          logo: 24.png
+          url: http://24mail.chacuo.net/?ref=ccbaohe.cc
+          description:  24小时邮箱
+        - title: snapmail临时邮箱
+          logo: snapmail.png
+          url: https://www.vmlogin.cc/?ref=ccbaohe.cc
+          description:  临时邮箱、虚拟邮箱、一次性邮箱
+        - title:   脆球邮箱
+          logo:  cuiqiu.png
+          url: https://www.cuiqiu.com/?ref=ccbaohe.cc
+          description: 批量注册域名邮箱·临时邮箱·超方便的多账号管理邮箱
+        - title:   10分钟邮箱
+          logo:  10.png
+          url: https://10minutemail.net/?ref=ccbaohe.cc
+          description:  10分钟邮箱
+- taxonomy: 虚拟身份生成
+  icon: fa-solid fa-laptop-code
+  list:
+    - term: 虚拟身份生成
+      links:
+        - title: 虚拟身份生成器
+          logo: xuni1.png
+          url: https://www.fakenamegenerator.com/?ref=ccbaohe.cc
+          description: 可批量生成国外虚拟身份神器
+        - title: 美国虚拟信息生成
+          logo: xuni2.png
+          url: https://www.haoweichi.com/?ref=ccbaohe.cc
+          description: 世界各国虚拟身份信息、地址、信用卡生成
+        - title: 信用卡号码生成器
+          logo:  xuni3.png
+          url: https://namso-gen.com/?ref=ccbaohe.cc&tab=basic&network=random
+          description: Namso-gen信用卡号码生成器
+        - title:  美国身份生成器
+          logo:  xuni4.png
+          url: https://www.meiguodizhi.com
+          description:  美国地址生成 - 美国身份生成 - 美国信用卡生成
 - taxonomy: 程序代码
   icon: fas fa-band-aid
   list:
