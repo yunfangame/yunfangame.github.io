@@ -15,10 +15,6 @@
       logo: oschina.webp
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: mp-weixin.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
     - title: 搜狗微信
       logo: sogou.webp
       url: https://weixin.sogou.com/
@@ -30,7 +26,23 @@
     - title: 推特
       logo: x-twitter.webp
       url: https://x.com/
-      description: Twitter
+      description: Twitter（通称推特）是一家美国社交网络及微博客服务的网站，是全球互联网上访问量最大的十个网站之一Twitter（通称推特）是一家美国社交网络及微博客服务的网站，是全球互联网上访问量最大的十个网站之一
+    - title: YouTube
+      logo: youtube.png
+      url: https://www.youtube.com/
+      description: YouTube是世界上最大的视频网站
+    - title:  Instagram
+      logo: Instagram.png
+      url: https://www.instagram.com/?ref=ccbaohe.cc
+      description: Facebook旗下最受欢迎的图片视频分享社交平台
+    - title: TikTok
+      logo:  TikTok.png
+      url:  https://www.tiktok.com/explore?ref=ccbaohe.cc
+      description: 全球最大的短视频网站
+    - title: Telegram
+      logo: tele.png
+      url: https://telegram.org/?ref=ccbaohe.com
+      description: 俗称“电报”，是一款全球知名度非常高的加密聊天工具
     - title: 知乎
       logo: zhihu.png
       url: https://www.zhihu.com/
