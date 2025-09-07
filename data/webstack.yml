@@ -4,9 +4,13 @@
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: yuque.webp
+      logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
+    - title: 在线PDF工具
+      logo: pdf.png
+      url: https://www.pdfpai.com/?ref=ccbaohe.cc
+      description: 各类格式转化PDF，几十个PDF实用工具
     - title: 开源中国
       logo: oschina.webp
       url: https://www.oschina.net/
@@ -289,6 +293,47 @@
           logo: regx.png
           url: https://regex.ai/?ref=ccbaohe.cc
           description: AI生成正则表达式
+- taxonomy: 指纹浏览器
+  icon: fa-solid fa-laptop-code
+  list:
+    - term: 指纹浏览器
+      links:
+        - title: AdsPower浏览器
+          logo: AdsPower.png
+          url: https://app.adspower.net/login?ref=ccbaohe.cc
+          description: AdsPower指纹浏览器是一款为跨境业务提供账号矩阵营销管理专用指纹浏览器
+        - title: VMlogin浏览器
+          logo: VMlogin浏览器.png
+          url: https://www.vmlogin.cc/?ref=ccbaohe.cc
+          description: VMlogin虚拟多登超级浏览器，用于亚马逊测评、eBay、Facebook、Twitter、Tinder等全球网站多平台账号防关联批量管理
+        - title:  比特浏览器
+          logo:  比特浏览器.png
+          url: https://www.bitbrowser.cn/?ref=ccbaohe.cc
+          description: 比特指纹浏览器，采用谷歌内核深度开发，可以实现物理层面的模拟真机信息的效果，代理IP深度匿名化，浏览器窗口之间100%无任何关联性
+        - title:  紫鸟超级浏览器
+          logo: 紫鸟超级浏览器.png
+          url: https://www.superbrowser.com/?ref=ccbaohe.cc
+          description: 紫鸟浏览器（紫鸟超级浏览器）是由福建紫讯信息科技有限公司潜心研发的首款跨境用户专属浏览器。
+        - title: Kameleo指纹浏览器
+          logo: Kameleo.png
+          url: https://login.kameleo.io/Account/Login
+          description: 一款功能强大的网络浏览器
+        - title: Hubstudio指纹浏览器
+          logo: Hubstudio.png
+          url: https://www.hubstudio.cn/register/index.html?ref=ccbaohe.cc
+          description: 专业出海多账号环境。不仅有免费不限量的指纹浏览器环境，还有专注TK媲美真机的云手机环境。
+        - title:  火豹浏览器
+          logo:  火豹浏览器.png
+          url: https://www.firebrowser.cn/?ref=ccbaohe.cc
+          description: 专为电商优化内核，多店铺防关联封号效果更佳，专为电商打造纯净独享代理IP，力争全网最低价！
+        - title:  火云指纹浏览器
+          logo: 火云指纹浏览器.png
+          url: https://www.hubstudio.cn/register/index.html?ref=ccbaohe.cc
+          description: 专火云指纹浏览器，免费10个环境，不限制插件使用，多账号管理的安全保障。
+        - title:  Antbrowser
+          logo:  mayi.png
+          url: https://antbrowser.pro/ru/?ref=ccbaohe.cc
+          description: 蚂蚁浏览器，战斗民族俄罗斯出品。
 - taxonomy: 程序代码
   icon: fas fa-band-aid
   list:
