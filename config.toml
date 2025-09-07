@@ -13,7 +13,7 @@ publishDir            = "public"
     upload            = "./upload/"
     about             = "./about/"	                               		# 左侧导航栏的"关于我们"页面(./about)
     enablePreLoad     = true                                           		# 网站完全打开前预加载动画
-    textPreLoad       = "万象宝盒--适合中国人的网址导航"                           		# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad       = "万象宝盒--适合中国人的导航"                           		# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar     = false                                          		# 默认展开左侧边导航栏
     nightMode         = false							# 默认站点为深色(夜间)模式
     yiyan             = true                                        		# 默认启用一言服务
