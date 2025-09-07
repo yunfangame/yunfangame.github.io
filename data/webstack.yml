@@ -516,84 +516,84 @@
     - term: 云服务器
       links:
         - title: 阿里云
-          logo: a/aliyun.jpg
+          logo: aliyun.jpg
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: c/cloud-tencent.webp
+          logo: cloud-tencent.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 'Tencent Cloud'
-          logo: c/cloud-tencent.webp
+          logo: cloud-tencent.webp
           url: https://www.tencentcloud.com/zh
           description: 腾讯云国际站。
         - title: 华为云
-          logo: h/huaweicloud.png
+          logo: huaweicloud.png
           url: https://www.huaweicloud.com/
           description: 共建智能世界云底座。
         - title: 七牛云
-          logo: q/qiniu.jpg
+          logo: qiniu.jpg
           url: https://www.qiniu.com/
           description: 一站式场景化智能视频云。
         - title: 京东云
-          logo: j/jdcloud.jpg
+          logo: jdcloud.jpg
           url: https://www.jdcloud.com/
           description: 京东科技集团旗下领先的云计算品牌。
         - title: 云筏科技
-          logo: c/cloudraft.webp
+          logo: cloudraft.webp
           url: https://www.cloudraft.cn/
           description: 云筏 - 科研云。
         - title: 极云普惠云电脑
-          logo: j/ji-cloud.png
+          logo: ji-cloud.png
           url: https://www.ji-cloud.cn/
           description: 云电脑-云游戏-手机变电脑软件。
         - title: 青椒云
-          logo: q/qingjiaocloud.jpg
+          logo: qingjiaocloud.jpg
           url: https://www.qingjiaocloud.com/
           description: 云桌面,一站式云电脑服务平台。
     - term: 科研绘图
       links: 
         - title: Hiplot
-          logo: h/hiplot.png
+          logo: hiplot.png
           url: https://hiplot.com.cn/
           description: 基于 Web 技术开发的一个免费和综合的科学数据计算和可视化云平台。
         - title: ImageGP
-          logo: i/imagegp-ehbio.jpg
+          logo: imagegp-ehbio.jpg
           url: http://www.ehbio.com/ImageGP/
           description: 易汉博生物信息在线作图。
         - title: 锐博 Galaxy 平台
-          logo: g/galaxy-project.png
+          logo: galaxy-project.png
           url: http://galaxy.ribobio.com:8088/
           description: 锐博生物 Galaxy 在线平台，需要注册。
         - title: R Graph Gallery
-          logo: r/r-graph-gallery.png
+          logo: r-graph-gallery.png
           url: https://www.r-graph-gallery.com/
           description: R 语言可视化案例网站。
         - title: Python Graph Gallery
-          logo: r/r-graph-gallery.png
+          logo: r-graph-gallery.png
           description: Python 言可视化案例网站。
         - title: OmicShare Tools
-          logo: o/omicshare.jpg
+          logo: omicshare.jpg
           url: https://www.omicshare.com/tools/
           description: 基迪奥生信云工具。
         - title: 韦恩图（Venn）
-          logo: v/venn.png
+          logo: venn.png
           url: https://bioinformatics.psb.ugent.be/webtools/Venn/
           description: 计算和绘制自定义韦恩图。
         - title: 韦恩图（Venny）
-          logo: v/venn.png
+          logo: venn.png
           url: https://bioinfogp.cnb.csic.es/tools/venny/index.html
           description: 在线的免费的韦恩图生成器。
         - title: 聚类图
-          logo: c/cluster.webp
+          logo: cluster.webp
           url: http://www.heatmapper.ca/
           description: 免费的在线的聚类图绘制。
         - title: 微生信
-          logo: w/weishengxin.webp
+          logo: weishengxin.webp
           url: http://www.bioinformatics.com.cn/
           description: 您身边的数据分析、可视化专家。
         - title: ChiPlot
-          logo: c/chiplot-online.webp
+          logo: chiplot-online.webp
           url: https://www.chiplot.online/
           description: 'chiplot.online.'
 
