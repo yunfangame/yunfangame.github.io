@@ -372,7 +372,7 @@
           url: https://10minutemail.net/?ref=ccbaohe.cc
           description:  10分钟邮箱
 - taxonomy: 虚拟身份生成
-  icon: fa-solid fa-laptop-code
+  icon: fa-regular fa-id-card
   list:
     - term: 虚拟身份生成
       links:
