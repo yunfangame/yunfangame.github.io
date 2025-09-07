@@ -604,65 +604,65 @@
       links:
         - title: 科技爱好者周刊
           url: http://www.ruanyifeng.com/blog/
-          logo: r/ruanyifeng.png
+          logo: ruanyifeng.png
           description: 阮一峰的网络日志。
         - title: 生信爱好者周刊
           url: https://openbiox.github.io/weekly/
-          logo: o/openbiox-weekly.png
+          logo: openbiox-weekly.png
           description: 记录每周值得分享的生信相关内容，周日发布。
         - title: 产品变现周刊
           url: https://www.ezindie.com/weekly
-          logo: e/ezindie-weekly.png
+          logo: ezindie-weekly.png
           description: 独立开发变现人物志、产品周刊、工具集。
         - title: 财新周刊
           url: https://weekly.caixin.com/
-          logo: c/caixin-weekly.png
+          logo: caixin-weekly.png
           description: 财新网周刊，财新网为原创财经新媒体。
         - title: 偷懒爱好者周刊
           url: https://toolight.zhubai.love/
-          logo: z/zhubai.webp
+          logo: zhubai.webp
           description: '偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。'
         - title: 老胡的信息周刊
           url: https://weekly.howie6879.com/
-          logo: h/howie6879-weekly.webp
+          logo: howie6879-weekly.webp
           description: 记录老胡每周看到的优质资源，包含项目、软件、资料、网站。
         - title: Python 潮流周刊
           url: https://pythoncat.top/
-          logo: p/pythoncat.webp
+          logo: pythoncat.webp
           description: '豌豆花下猫，Python 编程。'
         - title: 二丫讲梵
           url: https://wiki.eryajf.net/
-          logo: e/eryajf.webp
+          logo: eryajf.webp
           description: '运维技术和 Go 语言周边为主，辅以 GitHub 上优秀项目或他人优秀经验。'
         - title: '1Link.Fun'
           url: https://1link.fun/blog/
-          logo: 1/1linkfun.webp
+          logo: 1linkfun.webp
           description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
     - term: 博客站点
       links:
         - title: 博友圈
-          logo: b/boyouquan.webp
+          logo: boyouquan.webp
           url: https://www.boyouquan.com/
           description: 博客人的朋友圈。
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: c/coolshell.webp
+          logo: coolshell.webp
           description: 酷壳 – CoolShell。
         - title: "Yihui Xie | 谢益辉"
-          logo: y/yihui.png
+          logo: yihui.png
           url: https://yihui.org/
           description: 谢益辉的个人网站。
         - title: 生信菜鸟团
           url: http://www.bio-info-trainee.com/
-          logo: b/bio-info-trainee.png
+          logo: bio-info-trainee.png
           description: Jimmy 的个人博客笔记。
         - title: 思考问题的熊
           url: https://kaopubear.top/
-          logo: k/kaopubear.png
+          logo: kaopubear.png
           description: 中科院生物信息学博士，生物医疗相关。
         - title: 徐洲更的第二大脑
           url: https://xuzhougeng.top/
-          logo: x/xuzhougeng.webp
+          logo: xuzhougeng.webp
           description: 中科院博士，编程技术爱好者。
     - term: 教育平台
       links:
