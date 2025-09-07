@@ -49,27 +49,27 @@
     - term: GPT大全
       links:
         - title: 免费ChatGPT-01
-          logo: logos/chatgpt.png
+          logo: chatgpt.png
           url: https://dslsth.aitianhu1.top/#/chat/1002
           description: 免费使用的chatgpt
         - title: 免费ChatGPT-02
-          logo: logos/chatgpt.png
+          logo: chatgpt.png
           url: https://chat2.free2gpt.com/
           description: 免费使用的chatgpt
         - title: 免费ChatGPT-03
-          logo: logos/chatgpt.png
+          logo: chatgpt.png
           url: https://chat03.a1r.cc/#/chat/1002
           description: 免费使用的chatgpt
         - title: 免费ChatGPT-04
-          logo: logos/chatgpt.png
+          logo: chatgpt.png
           url: https://chatgptplus.cn/?ref=ccbaohe.cc
           description: 免费使用的chatgpt
         - title: 免费ChatGPT-05
-          logo: logos/chatgpt.png
+          logo: chatgpt.png
           url: https://www.opkfc.com/list
           description: 免费使用的chatgpt
         - title: 免费ChatGPT-06
-          logo: logos/chatgpt.png
+          logo: chatgpt.png
           url: https://ai1.yjie.fun/?ref=ccbaohe.cc
           description: 免费使用的chatgpt
     - term: AI写作
