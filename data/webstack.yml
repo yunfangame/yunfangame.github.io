@@ -64,7 +64,7 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
 - taxonomy: AI导航
-  icon: fa-solid fa-laptop-code
+  icon: fa-solid fa-hexagon-nodes
   list:
     - term: GPT大全
       links:
@@ -310,7 +310,7 @@
           url: https://regex.ai/?ref=ccbaohe.cc
           description: AI生成正则表达式
 - taxonomy: 指纹浏览器
-  icon: fa-solid fa-laptop-code
+  icon: fa-brands fa-internet-explorer
   list:
     - term: 指纹浏览器
       links:
@@ -351,7 +351,7 @@
           url: https://antbrowser.pro/ru/?ref=ccbaohe.cc
           description: 蚂蚁浏览器，战斗民族俄罗斯出品。
 - taxonomy: 虚拟邮箱
-  icon: fa-solid fa-laptop-code
+  icon: fa-solid fa-envelope-open-text
   list:
     - term: 虚拟邮箱
       links:
@@ -393,7 +393,7 @@
           url: https://www.meiguodizhi.com
           description:  美国地址生成 - 美国身份生成 - 美国信用卡生成
 - taxonomy: 全球接码
-  icon: fa-solid fa-laptop-code
+  icon: fa-solid fa-comment-sms
   list:
     - term: 全球接码
       links:
