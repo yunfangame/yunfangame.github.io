@@ -125,28 +125,84 @@
 
     - term: AI 绘画
       links:
-        - title: 开发者武器库
-          logo: d/devtool-tech.svg
-          url: https://devtool.tech/
-          description: 属于程序员的工具箱。
+        - title: Midjourney
+          logo: mid.png
+          url: https://www.midjourney.com/home/?ref=ccbaohe.cc
+          description: 目前地表最强的AI绘画工具。
+        - title: 文心一格
+          logo: wenxinyige.png
+          url: https://www.midjourney.com/home/?ref=ccbaohe.cc
+          description: 百度出品的AI绘画工具。
+        - title: Civitai
+          logo: civia.png
+          url: https://civitai.com/?ref=ccbaohe.cc
+          description: AI艺术共享平台！海量SD开源模型。
+        - title: NijiJourney
+          logo: najanory.png
+          url: https://nijijourney.com/zh/?ref=ccbaohe.cc
+          description: MJ出品！面向二次元风格，内容细致拿捏专业到位。
+        - title: NightCafe
+          logo: NightCafe.png
+          url: https://creator.nightcafe.studio/?ref=ccbaohe.cc
+          description: 用AI生成惊艳的艺术品。'
+        - title: NightCafe
+          logo: NightCafe.png
+          url: https://creator.nightcafe.studio/?ref=ccbaohe.cc
+          description: 用AI生成惊艳的艺术品。
+        - title: DALL·E2
+          logo: DALL.png
+          url: https://creator.nightcafe.studio/?ref=ccbaohe.cc
+          description: OpenAI出品的绘画工具
+        - title: 堆友AI创作神器
+          logo: dui.png
+          url: https://d.design/?ref=ccbaohe.cc
+          description: 推荐！Alibaba Design出品，AIGC行业大咖力荐的免费AI绘画神器和分享社区
+        - title: 通义万相-阿里云
+          logo: tongyi.png
+          url: https://tongyi.aliyun.com/wanxiang/?ref=ccbaohe.cc
+          description: AI绘画创作大模型，生成符合语义描述的不同风格的图像
+        - title: 360鸿图-360
+          logo: 360.png
+          url: https://tu.360.cn/?ref=ccbaohe.cc
+          description: 360鸿图是360最新推出的AI生成图片和插画工具，用户输入关键词描述，便可以一键生成图片。
+        - title: 简单AI=搜狐
+          logo: jiandan.png
+          url: https://ai.sohu.com/pc/home?ref=ccbaohe.cc
+          description: 简单AI是搜狐最新推出的智能图片生成平台和社区
     - term: 图片处理
       links:
-        - title: 阿里云镜像
-          logo: a/aliyun.jpg
-          url: https://developer.aliyun.com/mirror/
-          description: 阿里巴巴开源镜像站。
-        - title: 清华大学镜像
-          logo: m/mirrors-tuna.png
-          url: https://mirrors.tuna.tsinghua.edu.cn/
-          description: 清华大学开源软件镜像站。
-        - title: 西湖大学镜像
-          logo: w/westlake.png
-          url: https://mirrors.westlake.edu.cn/
-          description: Mirrors Site of Westlake University.
-        - title: HF-Mirror
-          logo: h/huggingface.png
-          url: https://hf-mirror.com/
-          description: 镜像 Huggingface.co 域名。
+        - title: PhotoKit
+          logo: PhotoKit.png
+          url: https://photokit.com/?lang=zh&ref=ccbaohe.cc
+          description: Aipix 是一款主打 AI 抠图功能的在线图片编辑器
+        - title: 图查查
+          logo: tuchacha.png
+          url: https://pic.360.com/tools/enlarge?srcg=remove&src=remove&ref=ccbaohe.cc
+          description: 360旗下的图查查网站，其中的AI工具可以无损放大、智能消除、智能抠图
+        - title: AI改图神器
+          logo: gaitu.png
+          url: https://www.logosc.cn/design/tools/?ref=ccbaohe.cc
+          description: AI改图神器是一个万能图片在线编辑器，是一个具有图片编辑、修复模糊图片、AI智能抠图、AI去水印等多种功能图片工具聚合类网站
+        - title: Remove-AI抠图
+          logo: remove.png
+          url: https://www.remove.bg/zh
+          description: 页面简洁，使用方便，不需要注册登录，直接上传图片就能自动进行抠图
+        - title: 腾讯图片增强修复
+          logo: tengxun.png
+          url: https://arc.tencent.com/zh/login
+          description: 腾讯 acr 提供了照片修复 / 抠图 / 增强 功能 demo 演示，可以免费使用。
+        - title: Upscay
+          logo: upscayl.png
+          url: https://upscayl.org/
+          description: 模糊图片秒变超清！开源免费 AI 图片无损放大工具
+        - title: 黑白上色-百度AI
+          logo: baiduai.png
+          url: https://ai.baidu.com/tech/imageprocess/colourize/?ref=ccbaohe.cc
+          description: 百度AI开放平台提供，黑白图像上色，智能识别黑白图像内容并填充色彩，使黑白图像变得鲜活
+        - title: Imagecolorizer
+          logo: imagecolorizer.png
+          url: https://cn.imagecolorizer.com/?ref=ccbaohe.cc
+          description: 一个免费的在线黑白老照片修复上色工具一：黑白照片着色、老照片增强、老照片修饰和老照片修复、去除老照片划痕
     - term: AI视频
       links:
         - title: 阿里云镜像
