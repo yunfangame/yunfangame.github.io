@@ -8,8 +8,8 @@
     <meta name="theme-color" content="#f9f9f9" />
     <title>{{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ absURL $.Site.Params.images.favicon }}" />
-    <meta name="keywords" content="AI导航,苹果ID,共享账号,免费,在线,综合导航" />
-    <meta name="describe" content="一个集搜索、AI工具和常用网站于一体的综合导航平台。在这里，您可以一站式访问热门的社交媒体、视频平台、共享账号、苹果ID、常用工具，并轻松体验免费的在线AI问答服务。旨在帮助您节省时间，提高工作与生活效率。" />
+    <meta name="keywords" content="{{ .Site.keywords }}" />
+    <meta name="description" content="{{ .Site.description }}" />
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}
