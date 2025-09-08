@@ -47,5 +47,5 @@ jobs:
           keep_files: true
           publish_branch: gh-pages        #发布到哪个branch分支
           force_orphan: true
-          #cname: ccbaohe.cc   #绑定 github pages 的域名
+          cname: ccbaohe.cc   #绑定 github pages 的域名
           full_commit_message: ${{ github.event.head_commit.message }}
