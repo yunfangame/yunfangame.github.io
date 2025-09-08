@@ -29,7 +29,7 @@ date: 2023-10-01T12:00:00+08:00
 </style>
 
 <div class="iframe-container">
-    <iframe src="https://shadowrocket.qiumm.cn" loading="lazy"></iframe>
+    <iframe src="https://shadowrocket.qiumm.cn" loading="lazy"  sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
 </div>
 
 {{< /app-id-iframe >}}
